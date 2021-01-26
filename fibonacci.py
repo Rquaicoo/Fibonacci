@@ -1,4 +1,4 @@
-#fibonacci numbera
+#fibonacci series
 def fibonacci(i):
 	numbers = []
 	x, y = 0, 1
